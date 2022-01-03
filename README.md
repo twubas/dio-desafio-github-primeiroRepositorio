@@ -1,3 +1,3 @@
 # Desafio github 
-### Primeiro Repositorio
+### Primeiro Repositório
 Desafio de Projeto sobre Git/Github
